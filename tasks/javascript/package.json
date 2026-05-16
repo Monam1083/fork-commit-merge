@@ -5,7 +5,7 @@
   "scripts": {
     "test:medium": "jest tasks/javascript/jest/medium",
     "test:hard": "jest tasks/javascript/jest/hard",
-    "build": "tsc"
+    "build": "node init && tsc"
   },
   "devDependencies": {
     "@types/react": "^19.1.10",
@@ -14,7 +14,7 @@
     "ts-node": "^10.9.1",
     "typescript": "^5.9.2"
   },
-  "author": "Niko Hoffrén",
+  "author": "Niko Hoffr\u00e9n",
   "license": "MIT",
   "dependencies": {
     "express": "^4.21.2",

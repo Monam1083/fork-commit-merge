@@ -1,7 +1,6 @@
 **/node_modules/
 **/.clj-kondo/
 **/.lsp/
-**/.vscode/
 **/.DS_Store
 
 # IDE and editor folders
@@ -18,3 +17,4 @@ node_modules/
 # Optional: IntelliJ logs and workspace files
 out/
 *.iws
+config.bat
